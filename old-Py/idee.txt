@@ -1,0 +1,7 @@
+Einen Autoclicker zu machen wo mann eine taste eingeben kann die
+dann gedückt wird, für l.mouse und r.mouse gibt es bestimmte tasten
+Mit desing Tkinter und grid
+
+Rechner mit grid und bilder 
+
+to do app
